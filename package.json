@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CallMeAnil/angular-clear-icon.git"
+    "url": "git+https://github.com/gangadharjannu/clear-icon.git"
   },
   "keywords": [
     "angular",
     "clear-icon",
     "directive"
   ],
-  "author": "callmeanil <gangadhar.jannu@gmail.com>",
+  "author": "callmeanil <gangadhar014@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "angular": "^1.5.8"
-  }
-  "bugs": {
-    "url": "https://github.com/CallMeAnil/angular-clear-icon/issues"
   },
-  "homepage": "https://github.com/CallMeAnil/angular-clear-icon#readme"
+  "bugs": {
+    "url": "https://github.com/gangadharjannu/clear-icon/issues"
+  },
+  "homepage": "https://github.com/gangadharjannu/clear-icon#readme"
 }
