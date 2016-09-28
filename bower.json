@@ -1,0 +1,22 @@
+{
+  "name": "clear-icon",
+  "description": "angular clear icon for clearing editable inputs",
+  "main": "clear-icon.directive.js",
+  "authors": [
+    "callmeanil <gangadhar.jannu@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "clear-icon",
+    "directive"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

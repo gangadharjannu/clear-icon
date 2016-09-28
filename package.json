@@ -1,0 +1,27 @@
+{
+  "name": "clear-icon",
+  "version": "1.0.0",
+  "description": "angular clear icon for clearing editable inputs",
+  "main": "clear-icon.directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallMeAnil/angular-clear-icon.git"
+  },
+  "keywords": [
+    "angular",
+    "clear-icon",
+    "directive"
+  ],
+  "author": "callmeanil <gangadhar.jannu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+  "bugs": {
+    "url": "https://github.com/CallMeAnil/angular-clear-icon/issues"
+  },
+  "homepage": "https://github.com/CallMeAnil/angular-clear-icon#readme"
+}
