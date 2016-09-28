@@ -12,7 +12,6 @@ Pure AngularJS directive for clearing HTML inputs without any external dependenc
 
 #### How to guide
 
-
  * Manual method
    * Download clear-icon directive from [GitHub](https://raw.githubusercontent.com/CallMeAnil/clear-icon/master/clear-icon.directive.js)
  * Using Bower
@@ -31,4 +30,9 @@ And here's some code! :
 	<input type="text" ng-model="test" clear-icon>
 </body>
 ```
+
+
+#### Demo
+
+[JS Bin](http://output.jsbin.com/lapani)
 
