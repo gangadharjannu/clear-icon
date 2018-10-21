@@ -1,7 +1,6 @@
-# (clear-icon) AngularJS directive
+# clear-icon
 
-Pure AngularJS directive for clearing HTML inputs without any external dependencies.
-
+An AngularJS directive for clearing HTML inputs using clear icon without any external dependencies.
 
 **Feature list**:
 
@@ -9,7 +8,6 @@ Pure AngularJS directive for clearing HTML inputs without any external dependenc
  * validation friendly (resets input to default state).
  * No external dependencies (pure Angular).
  
-
 #### How to guide
 
  * Manual method
@@ -31,8 +29,6 @@ And here's some code! :
 </body>
 ```
 
-
 #### Demo
 
-[JS Bin](http://output.jsbin.com/lapani)
-
+[demo](https://gangadharjannu.github.io/clear-icon/)
